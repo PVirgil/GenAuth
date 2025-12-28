@@ -1,4 +1,4 @@
-# 🧾 GenAuth – Immutable Authorship & Identity Blockchain
+# 🧾 GenAuth
 
 **GenAuth** is a blockchain system engineered to verify and immutably record digital authorship and AI-generated content ownership. It stores comprehensive metadata including content hashes, agent fingerprints, cryptographic signatures, and semantic tags — establishing a tamper-proof provenance trail for digital artifacts.
 
